@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_moonlight">Peter Parker is moon knight.</string>
+    <string name="question_spiderman">Spider man wear a green suit.</string>
+    <string name="question_batman">Batman is an avenger.</string>
+    <string name="question_ironman">Tony Montana is iron man.</string>
+    <string name="question_hulk">Bruce Banner is an avenger.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next Question</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Wrong!</string>
+</resources>
